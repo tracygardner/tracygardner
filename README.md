@@ -8,7 +8,8 @@
 - 💡 I initiated and collaborated on [picozero](https://github.com/RaspberryPiFoundation/picozero) A beginner library for the Raspberry Pi Pico microcontroller. 
 - 👩‍🏫 I was the lead instructor for [Getting Started with Your Raspberry Pi](https://www.futurelearn.com/courses/getting-started-with-your-raspberry-pi) on FutureLearn.
 - 📕 My PhD thesis, [Inheritance Relationships for Disciplined Software Construction](https://www.amazon.co.uk/Inheritance-Relationships-Construction-Distinguished-Dissertations-ebook/dp/B000W2STRM) won a BCS Distinguished Dissertations award. 
-- 🕸 I now neglect my website [TechAgeKids](https://www.techagekids.com/) which won a UK Blog Award (Digital and Technology category) in 2017.
+- 📚 I co-wrote the [Miles Kelly Get Set Go Computing and ScratchJr](https://www.amazon.co.uk/s?k=get+set+go+computing) books for young children.
+- 🕸 I now neglect my website [TechAgeKids](https://www.techagekids.com/) which won a UK Blog Awards (Digital and Technology category) in 2017.
 - 🧵 I love making things with craft and tech. I like to use code to create SVG files that I can [render](https://github.com/tracygardner/layeredsvgcraft) online and then cut out on my Silhouette Cameo or a CNC cutter or laser cutter. I also like to create things to 3D print using BlocksCAD or OpenSCAD.
 - 😄 Pronouns: she/her, they is fine too.
 - 📫 How to reach me: though GitHub or [LinkedIn](https://www.linkedin.com/in/tracy-gardner-328406/)
