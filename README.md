@@ -2,7 +2,7 @@
 
 - 🧪 I’m experimenting with [Scratch as a progressive web app](https://github.com/tracygardner/scratchpwa)
 - 🌱 I’m currently learning about progressive web apps (websites that can download to your phone or computer and run offline)
-- ✨ I work for the Raspberry Pi Foundation and write projects for Code Club and CoderDojo. 
+- ✨ I work for the Raspberry Pi Foundation and write [projects](https://projects.raspberrypi.org/en/paths) for Code Club and CoderDojo. 
 - 📑 I was the lead author for [What do We Know about Computing Education for K-12 in Non-formal Settings? A Systematic Literature Review of Recent Research](https://dl.acm.org/doi/fullHtml/10.1145/3501385.3543960) which was accepted at ICER 2022. 
 - 🐛 I wrote [micro:bit in Wonderland](https://Leanpub.com/microbitinwonderland/)
 - 💡 I initiated and collaborated on [picozero](https://github.com/RaspberryPiFoundation/picozero) A beginner library for the Raspberry Pi Pico microcontroller. 
