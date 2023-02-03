@@ -10,6 +10,7 @@
 - 📕 My PhD thesis, [Inheritance Relationships for Disciplined Software Construction](https://www.amazon.co.uk/Inheritance-Relationships-Construction-Distinguished-Dissertations-ebook/dp/B000W2STRM) won a BCS Distinguished Dissertations award. 
 - 📚 I co-wrote the [Miles Kelly Get Set Go Computing and ScratchJr](https://www.amazon.co.uk/s?k=get+set+go+computing) books for young children.
 - 🕸 I now neglect my website [TechAgeKids](https://www.techagekids.com/) which won a UK Blog Awards (Digital and Technology category) in 2017.
+- 🔍 I'm obsessed with search and metadata. I worked on collaborative projects including [DESIRE](http://www.ukoln.ac.uk/metadata/desire/) and [iMesh](http://www.dlib.org/dlib/december99/12dempsey.html) in the digital libraries space including [quality ratings in RDF](https://researchportal.bath.ac.uk/en/publications/quality-ratings-in-rdf).
 - 🧵 I love making things with craft and tech. I like to use code to create SVG files that I can [render](https://github.com/tracygardner/layeredsvgcraft) online and then cut out on my Silhouette Cameo or a CNC cutter or laser cutter. I also like to create things to 3D print using BlocksCAD or OpenSCAD.
 - 😄 Pronouns: she/her, they is fine too.
 - 📫 How to reach me: though GitHub or [LinkedIn](https://www.linkedin.com/in/tracy-gardner-328406/)
