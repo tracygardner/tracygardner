@@ -1,4 +1,6 @@
 ### Hi there 👋
+- My current project is Flock 🐑, a 3D block-based editor using Blockly and Babylon.js. Lots more to do! [Flock code](https://github.com/flipcomputing/flock). [Flock demo](https://flipcomputing.github.io/flock/).
+- We had lots of fun at [Flip Computing](http://flipcomputing.com) creating [UEFN and Verse](https://dev.epicgames.com/community/learning/tutorials/5JMO/fortnite-getting-started-with-uefn-free-resources) projects for the British Computer Society. 
 - I've recently had a lot of fun writing the 🐧[24 Days of Scratch Coding](https://flipcomputing.com/24-days-of-scratch/) book with my [Flip Computing](https://flipcomputing.com/) co-founders. 
 - I'm currently learning 🪅UEFN/Verse and experimenting with 🐙[OctoStudio](https://www.techagekids.com/2023/10/octostudio-mobile-coding.html). 
 - 🧪 I’ve experimented with [Scratch as a progressive web app](https://github.com/tracygardner/scratchpwa) and built a [Scratch project analyser](https://scratch-analysis.tracygardner.repl.co/)
