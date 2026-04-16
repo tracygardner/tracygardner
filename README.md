@@ -5,6 +5,7 @@
 - I'm a [Women in Games Ambassador](https://www.womeningames.org/ambassadors/) and was delighted to recieve a special award for empowering young people in 2025 🏅. 
 - I'm a co-chair of the Ecosystem domain group at the [Metaverse Standards Forum](https://metaverse-standards.org/), focussing on education. I co-lead the 3D skills taskforce 🧊 where we're working on a cross-industry beginner 3D skills framework. 
 - I got a distinction ⭐ in the [Making Spaces Accreditation course](https://m4kingspaces.org/accreditation_course/) so that I can deliver training in the 3 Steps Towards Equitable Practice (3-STEP) approach ⚖️.
+- I co-authored the [Tech Careers Coach for Teens](https://technologybooksforchildren.org/tech-career-coach-for-teens/) book which we launched in the Houses of Parliament in 2025. 
 - We had lots of fun at [Flip Computing](http://flipcomputing.com) creating [UEFN and Verse](https://dev.epicgames.com/community/learning/tutorials/5JMO/fortnite-getting-started-with-uefn-free-resources) projects for the British Computer Society. We got an Innovate UK grant to create (Storytelling with music)[https://flipcomputing.com/storytelling-with-music/] on Fortnite. 
 - I wrote 🐧[24 Days of Scratch Coding](https://flipcomputing.com/24-days-of-scratch/) book with my [Flip Computing](https://flipcomputing.com/) co-founders.
 - I co-wrote the [Collins International Computing](https://collins.co.uk/collections/collins-international-computing) series of books 📚 which takes a project based and creative approach to the computing curriculum.
